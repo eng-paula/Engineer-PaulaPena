@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Engineer-PaulaPena', // Add this line
+  base: '/Engineer-PaulaPena/', // Add this line
 });
