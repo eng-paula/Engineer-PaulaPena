@@ -1,5 +1,6 @@
 
-{ "name": "vite-react-typescript-starter",
+{ 
+  "name": "portfolio-website",
   "homepage": "https://eng-paula.github.io/Engineer-PaulaPena",
   "private": true,
   "version": "0.0.0",
