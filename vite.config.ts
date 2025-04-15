@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/EngPaula.github.io/', // Add this line
+  base: '/Engineer-PaulaPena', // Add this line
 });
